@@ -12,10 +12,10 @@ My primary goals throughout the above processes include: when the planner is ope
 
 Throughout this entire process, I added relevant comments in the JavaScript; these comments act as snippets of the general outline of the content herein.
 
-
 ### GitHub Link: https://github.com/mslzbry/calendar-application
+
 ### Site Link: https://mslzbry.github.io/calendar-application/
 
-
 ## Screenshot:
-![Alt text](assets/screenshot.png 'screenshot')
+
+![Alt text](Assets/screenshot.png 'screenshot')
